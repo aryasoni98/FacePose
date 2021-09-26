@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./image/face_pose.png" >
+<img src="./Image/face_pose.png" >
 
 # Face Pose Detection 
 </diV>
@@ -19,6 +19,6 @@ Please, use the following folder structure to run all Jupyter Notebooks without 
 
 ## Result
 
-<img src="./image/aryasoni.jpeg" alt="Face Pose" style="width:200px;" />
+<img src="./Image/aryasoni.jpeg" alt="Face Pose" style="width:200px;" />
 
-<img src="./image/face_pose_detecion.png" alt="Face pose" style="width:200px;" />
+<img src="./Image/face_pose_detecion.png" alt="Face pose" style="width:200px;" />
