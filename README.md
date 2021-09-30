@@ -1,7 +1,11 @@
-<div align="center">
-<img src="./Image/face_pose.png" >
+![FacePose](https://socialify.git.ci/aryasoni98/FacePose/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
-# Face Pose Detection 
+
+<div align="center">
+
+# Face Pose Detection
+
+<img src="./Image/face_pose.png" >
 </diV>
 
 # Data
@@ -11,7 +15,7 @@ You can View the data used for this project [here](./Dataset).
 Please, use the following folder structure to run all Jupyter Notebooks without any additional effort:
 
 ```
-├── Dataset 
+├── Dataset
 ├── Images
 ├── Models
 ├── FacePose.ipynb
